@@ -1,3 +1,6 @@
+// Copyright 2018 Andrew Pennebaker
+// Woot.
+
 #include <iostream>
 using std::cout;
 
